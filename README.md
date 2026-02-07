@@ -10,6 +10,6 @@ More information about MyTimelines [Read here](https://github.com/eldotta/AppSup
 
 [Click here to create a new issue](https://github.com/eldotta/AppSupport/issues/new)
 
-🕵️‍♀️ Privacy policy: [Click here](https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Privacy.md)
+🕵️‍♀️ [Privacy policy](https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Privacy.md)
 
-🪪 License Agreement (EULA): [Click here](https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_LicenseAgreement.md)
+🪪 [License Agreement (EULA)](https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_LicenseAgreement.md)

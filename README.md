@@ -6,8 +6,8 @@ Here you find public information about the following apps released on the AppSto
 
 More information about MyTimelines [https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Marketing.md]
 
-For support, file an issue in this Git repository. This will help to address it quickly.
+For support, file an issue in this Git repository. This will help to address it quickly. [https://github.com/eldotta/AppSupport/issues/new](Click here to create a new issue)
 
-Privacy policy: [https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Privacy.md]
+Privacy policy: [https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Privacy.md](Click here)
 
-License Agreement (EULA): [https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_LicenseAgreement.md]
+License Agreement (EULA): [https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_LicenseAgreement.md](Click here)

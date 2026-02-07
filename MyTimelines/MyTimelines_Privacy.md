@@ -1,7 +1,7 @@
 
 # MyTimelines - Privacy Policy
 
-Version: 1.00, Date: Feb 7, 2026
+**Last updated:** Feb 7, 2026
 
 **MyTimelines** respects your privacy. This app is designed to work primarily on your device and does not collect or track personal information.
 

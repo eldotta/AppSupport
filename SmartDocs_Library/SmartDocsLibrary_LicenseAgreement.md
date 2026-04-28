@@ -1,6 +1,6 @@
 # End User License Agreement (EULA)
 
-**Last updated:** Mar 12, 2026
+**Last updated:** Apr 28, 2026
 
 This End User License Agreement ("Agreement") is a legal agreement between you ("User") and **Thies Harm Landsberger** ("Developer") regarding the use of the **MyTimelines** mobile application ("App").
 
@@ -47,4 +47,12 @@ The Developer does not claim ownership of your data.
 
 ## 5. Third-Party Software
 
-The App does not include third-party software components.
+The App includes third-party open-source software components. These components are licensed under their respective licenses.
+
+### ZIPFoundation
+
+This App uses **ZIPFoundation**, available at:
+https://github.com/weichsel/ZIPFoundation
+
+ZIPFoundation is licensed under the **MIT License**:
+

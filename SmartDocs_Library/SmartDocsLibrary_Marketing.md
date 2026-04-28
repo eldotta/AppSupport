@@ -1,4 +1,5 @@
 # SmartDocs Library
+Your smart document helper.
 
 SmartDocs is a beautifully simple document library for iCloud Drive that helps you capture, organize, find, and manage important files without friction. Scan paper documents directly in the app, import files through a dedicated Inbox, share from other apps and turn everything into a clean, searchable library organized the way you work.
 
@@ -14,7 +15,7 @@ Key benefits
 	•	Search across document text, filenames, and metadata
 	•	Preview and edit documents with a shared, consistent editor
 	•	Recover deleted files from Trash before permanent removal
-	•	Sync document metadata and app state across devices with CloudKit
+	•	Sync document metadata and app state across devices
 	•	Work naturally with iCloud Drive using familiar Apple-style interactions
 
 *The app is currently restricted to personal invitation-only beta phase. More info coming soon.*

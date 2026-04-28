@@ -5,7 +5,7 @@ Here you find public information about the following apps released on the AppSto
 
 ## SmartDocs Library
 
-More information about SmartDocs Library [Read here](https://github.com/eldotta/AppSupport/blob/main/MyTimelines/MyTimelines_Marketing.md)
+More information about SmartDocs Library [Read here](https://github.com/eldotta/AppSupport/blob/main/SmartDocs_Library/SmartDocs_Library_Marketing.md)
 
 🛟 For support, file an issue in this Git repository. This will help to address it quickly. 
 
